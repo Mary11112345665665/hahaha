@@ -33,6 +33,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
+    // XXxxxxxxxxxxxx
+    //SSSSSSSSSSSSSSS
     UITabBarController *tbc = [[UITabBarController alloc]init];
     [self createControllersFor:tbc];
     self.window.rootViewController = tbc;
