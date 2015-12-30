@@ -1,0 +1,15 @@
+//
+//  unity.pch
+//  YMHTitleAndFunny
+//
+//  Created by qianfeng007 on 15/12/7.
+//  Copyright © 2015年 杨明辉. All rights reserved.
+//
+
+#ifndef unity_pch
+#define unity_pch
+
+#define VIEW_WIDTH  self.view.frame.size.width
+#define VIEW_HEIGHT  self.view.frame.size.height
+
+#endif /* unity_pch */
